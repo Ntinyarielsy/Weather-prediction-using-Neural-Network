@@ -1,6 +1,4 @@
-# Project – COSC 6339 
-## School of Engineering & Computer Sciences A & M University at Corpus Christ
-## Objective: Build a system to predicate the weather
+## Objective: Build a system to predict the weather
 
 - project summary.
 - Installation and set ups.
