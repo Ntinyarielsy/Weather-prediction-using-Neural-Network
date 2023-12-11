@@ -1,0 +1,5 @@
+pandas==2.1.3
+scikit-learn==1.3.2
+Tensorflow==2.15.0
+ipykernel==6.26.0
+matplotlib==3.8.2
